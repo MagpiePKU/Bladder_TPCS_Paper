@@ -1,0 +1,2 @@
+sample	coefficients	r2	cn_stat_mod	k	Intercept	Intercept_info
+1901616S3CT-5.T.merge.cnr	0.378443812208281	0.996504514497638	0,0,2,3	5	1.19622327164528	0.401888364177361

@@ -1,0 +1,4 @@
+# 1. run through liftover_vcf.sh to lift-over the GRCh37-based vcf to GRCh38 (if necessary)
+# 2. run getvartrix.sh to run VarTrix `https://github.com/10XGenomics/vartrix` on given sample
+
+# this is a simple wrapper for vartrix

@@ -1,0 +1,11 @@
+[
+  {
+    "sample": "1901616S3CT-5.T.merge.cnr",
+    "coefficients": 0.3784,
+    "r2": 0.9965,
+    "cn_stat_mod": "0,0,2,3",
+    "k": 5,
+    "Intercept": 1.1962,
+    "Intercept_info": 0.4019
+  }
+]
